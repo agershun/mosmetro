@@ -56,4 +56,7 @@ I am going to include three picturen on my submission:
  
 I will use d3.js library but instead of "force-field" algorithm I will use geo positions.of each station.
 
-
+## Useful Links
+* [Centrality demo](view-source:http://markallenthornton.com/blog/centrality-demo/)
+* [ngraph](https://github.com/anvaka/ngraph) and [ngraph.centrality](https://github.com/anvaka/ngraph.centrality)
+* 
